@@ -1,4 +1,4 @@
-# Spring Boot Mini Projects Course
+# Spring Boot Mini Projects
 
 ## 🧰 Technologies Used
 
