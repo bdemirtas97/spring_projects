@@ -24,15 +24,18 @@ A simple banking app that allows users to:
 
 ### 2. 💰 Personal Expense Tracker
 Track daily expenses and manage budgets:
-- CRUD operations for expenses
-- Monthly summaries
-- REST APIs + React frontend
+-  Building REST APIs.
+-  Implementing exception handling.
+-  Generating REST API documentation.
+-  Developing functionalities to track and manage user expenses across different categories.
 
 ### 3. ✅ Todo Management App
 Create and manage personal todos:
-- Add, update, delete, and list tasks
-- Simple UI with React and Thymeleaf versions
-- JWT-based authentication
+-  Building REST APIs.
+-  Securing REST APIs using Spring Security and JWT (JSON Web Token).
+-  Implementing authentication and authorization mechanisms.
+
+
 
 ### 4. 🎓 Student Management System
 Manage student records with:
@@ -44,7 +47,7 @@ Manage student records with:
 Maintain employee data:
 - Add, edit, and delete employee info
 - RESTful APIs
-- Frontend in React or Thymeleaf
+- Frontend in React
 
 ---
 
